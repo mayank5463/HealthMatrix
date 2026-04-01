@@ -34,7 +34,7 @@ A web-based hospital management system built using Django with role-based functi
 ### ✅ Prerequisites
 
 - Install **Python (3.7.6)**  
-  *(Make sure to check "Add to PATH" during installation)*
+  *(Make sure to check "Add to PATH" during installation of proper version)*
 
 ### ✅ Install Dependencies
 
