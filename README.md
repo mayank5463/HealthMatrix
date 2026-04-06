@@ -8,7 +8,7 @@ A web-based hospital management system built using Django with role-based functi
 
 ### 👨‍💼 Admin
 - Signup/Login (No approval required).
-- Register, view, approve, reject, and delete doctors (approve those who applied to work in the hospital).
+- Register, view, approve, reject, and delete doctors in the hospital (approve those who applied to work in the hospital).
 - Admit, view, approve, reject, and discharge patients (discharge after treatment completion).
 - Generate/Download invoice PDFs (based on medicine cost, room charge, doctor charge, and other charges).
 - View, book, and approve appointments (approve those requested by patients).
