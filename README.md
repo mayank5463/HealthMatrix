@@ -21,7 +21,7 @@ A web-based hospital management system built using Django with role-based functi
 - Delete appointments after attending them.
 
 ### 👨‍⚕️ Patient
-- Create an account and login after admin approval.
+- Create an account and login after admin appproved it .
 - View assigned doctor details (specialization, mobile number, address).
 - View booked appointment status (pending/confirmed by admin).
 - Book appointments (approval required by admin).
