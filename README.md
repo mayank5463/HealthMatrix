@@ -1,4 +1,5 @@
-# 🏥 Hospital Management System(HeakthMatrix)
+# 🏥 Hospital Management System(Heak
+lthMatrix)
 
 This is the whole project markdown file
 A web-based hospital management system built using Django with role-based functionalities for Admin, Doctor, and Patient.
